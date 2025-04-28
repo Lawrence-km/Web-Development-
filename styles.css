@@ -277,7 +277,9 @@ body {
     padding: 3rem 0;
     background: #3D7B6C;
 }
-
+.services-section py-5 bg-light{
+    justify-content: center;
+}
 .brand-logo {
     height: 50px;
     filter: brightness(0) invert(1);
